@@ -1,0 +1,31 @@
+Date,Location,Operator,Flight Number,Fatalities,target
+2023-01-01,New York,Airline A,AA123,5,0
+2023-02-15,Los Angeles,Airline B,BB456,10,1
+2023-03-20,Chicago,Airline C,CC789,2,0
+2023-04-10,Houston,Airline D,DD101,8,1
+2023-05-05,Miami,Airline E,EE202,0,0
+2023-06-15,Seattle,Airline F,FF303,3,1
+2023-07-20,San Francisco,Airline G,GG404,7,1
+2023-08-30,Las Vegas,Airline H,HH505,4,0
+2023-09-10,Denver,Airline I,II606,6,1
+2023-10-25,Boston,Airline J,JJ707,1,0
+2023-11-11,Orlando,Airline K,KK808,9,1
+2023-12-05,Dallas,Airline L,LL909,5,0
+2024-01-15,Atlanta,Airline M,MM010,7,1
+2024-02-20,Phoenix,Airline N,NN111,2,0
+2024-03-30,Minneapolis,Airline O,OO212,6,1
+2024-04-10,San Diego,Airline P,PP313,4,0
+2024-05-25,Detroit,Airline Q,QQ414,8,1
+2024-06-05,Philadelphia,Airline R,RR515,3,0
+2024-07-15,Charlotte,Airline S,SS616,1,0
+2024-08-20,Austin,Airline T,TT717,9,1
+2024-09-15,San Antonio,Airline U,UU818,4,0
+2024-10-05,Nashville,Airline V,VV919,5,1
+2024-11-20,Memphis,Airline W,WW020,3,0
+2024-12-15,Jacksonville,Airline X,XX121,2,0
+2025-01-10,Indianapolis,Airline Y,YY222,8,1
+2025-02-05,Columbus,Airline Z,ZZ323,7,1
+2025-03-20,Fort Worth,Airline AA,AA424,6,1
+2025-04-15,El Paso,Airline BB,BB525,4,0
+2025-05-10,Louisville,Airline CC,CC626,9,1
+2025-06-15,Baltimore,Airline DD,DD727,3,0
